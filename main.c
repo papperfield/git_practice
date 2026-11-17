@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("%s\n","branch-fetch-test");
+    printf("%s\n","branch-switch-test");
     
     return 0;
 }
